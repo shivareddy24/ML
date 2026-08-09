@@ -1,0 +1,8 @@
+ 2026-08-08 18:08:57,447 - my_logger - INFO - This is an info message 
+ 2026-08-08 18:08:57,448 - my_logger - WARNING - This is a warning message 
+ 2026-08-08 18:08:57,450 - my_logger - ERROR - This is an error message 
+ 2026-08-08 18:08:57,452 - my_logger - CRITICAL - This is a critical message 
+ 2026-08-09 11:44:05,419 - my_logger - INFO - This is an info message 
+ 2026-08-09 11:44:05,430 - my_logger - WARNING - This is a warning message 
+ 2026-08-09 11:44:05,432 - my_logger - ERROR - This is an error message 
+ 2026-08-09 11:44:05,435 - my_logger - CRITICAL - This is a critical message 
