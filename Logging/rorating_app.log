@@ -1,5 +1,0 @@
- 2026-08-09 12:07:52,051 - my_logger - ERROR - This is an error message 
- 2026-08-09 12:07:52,056 - my_logger - CRITICAL - This is a critical message 
- 2026-08-09 12:07:52,058 - my_logger - WARNING - This is a warning message 
- 2026-08-09 12:07:52,059 - my_logger - ERROR - This is an error message 
- 2026-08-09 12:07:52,059 - my_logger - CRITICAL - This is a critical message 
