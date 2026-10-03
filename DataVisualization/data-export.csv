@@ -1,0 +1,501 @@
+Date,Product,Category,Region,Units_Sold,Revenue,Discount_Pct,Rating
+2025-01-01,Desk Lamp,Home,North,6,250.02,7.4,1.6
+2025-01-02,Throw Pillow,Home,East,12,355.32,1.3,4.7
+2025-01-03,Throw Pillow,Home,East,22,453.42,31.3,2
+2025-01-04,Jeans,Clothing,East,38,2202.48,3.4,2.8
+2025-01-05,Olive Oil,Food,East,21,187.49,25.6,2.2
+2025-01-06,T-Shirt,Clothing,West,48,1104,8,2.2
+2025-01-07,T-Shirt,Clothing,West,26,563.55,13.3,4.2
+2025-01-08,Laptop,Electronics,North,50,59340,1.1,3.2
+2025-01-09,Throw Pillow,Home,Central,49,1164.24,20.8,4.5
+2025-01-10,Laptop,Electronics,East,131,148396.8,5.6,3
+2025-01-11,Coffee Beans,Food,Central,56,922.32,8.5,4.7
+2025-01-12,Jeans,Clothing,North,39,2068.56,11.6,2.9
+2025-01-13,Desk Lamp,Home,South,127,3771.9,34,4.4
+2025-01-14,Smartphone,Electronics,Central,76,58793.6,3.3,2.4
+2025-01-15,Throw Pillow,Home,East,23,618.24,10.4,4.2
+2025-01-16,T-Shirt,Clothing,North,102,2348.55,7.9,2.9
+2025-01-17,Olive Oil,Food,East,81,664.85,31.6,3.7
+2025-01-18,Olive Oil,Food,Central,81,883.55,9.1,4.4
+2025-01-19,Jeans,Clothing,East,6,354.24,1.6,3.9
+2025-01-20,Coffee Beans,Food,North,111,1536.46,23.1,4.5
+2025-01-21,Smartphone,Electronics,West,7,4323.2,22.8,2.6
+2025-01-22,Desk Lamp,Home,South,31,1220.63,12.5,2.1
+2025-01-23,Desk Lamp,Home,North,137,5394.38,12.5,3.7
+2025-01-24,Smartphone,Electronics,Central,17,12947.2,4.8,2.8
+2025-01-25,Headphones,Electronics,West,131,16309.5,17,3.7
+2025-01-26,Jeans,Clothing,South,1,57.42,4.3,1.6
+2025-01-27,T-Shirt,Clothing,South,5,95,24,3.3
+2025-01-28,Coffee Beans,Food,West,91,1043.41,36.3,1.7
+2025-01-29,T-Shirt,Clothing,Central,135,3250.13,3.7,4.5
+2025-01-30,Wireless Mouse,Electronics,West,116,2614.64,35.6,4.5
+2025-01-31,Desk Lamp,Home,West,49,1431.05,35.1,2.4
+2025-01-31,Laptop,Electronics,West,128,131020.8,14.7,4.4
+2025-02-01,Smartphone,Electronics,Central,73,43040.8,26.3,2.9
+2025-02-01,Wireless Mouse,Electronics,South,85,2284.8,23.2,3
+2025-02-02,Smartphone,Electronics,North,71,41691.2,26.6,3.4
+2025-02-02,Throw Pillow,Home,North,40,1141.2,4.9,1.6
+2025-02-03,Desk Lamp,Home,Central,100,2821.5,37.3,3.1
+2025-02-03,Headphones,Electronics,South,36,3499.2,35.2,2.8
+2025-02-04,Coffee Beans,Food,East,57,771.55,24.8,3
+2025-02-04,T-Shirt,Clothing,North,132,3230.7,2.1,3.2
+2025-02-05,Headphones,Electronics,North,117,16725.15,4.7,4.5
+2025-02-05,Throw Pillow,Home,North,29,641.19,26.3,3.2
+2025-02-06,Coffee Beans,Food,West,43,633.91,18.1,2.9
+2025-02-06,T-Shirt,Clothing,Central,108,2689.2,0.4,4.8
+2025-02-07,Desk Lamp,Home,Central,80,2574,28.5,4.3
+2025-02-07,Olive Oil,Food,West,111,1117.55,16.1,3.2
+2025-02-08,Smartphone,Electronics,West,76,40432,33.5,4.3
+2025-02-08,Throw Pillow,Home,West,140,3561.6,15.2,2
+2025-02-09,Headphones,Electronics,South,58,6072.6,30.2,2.5
+2025-02-09,Headphones,Electronics,West,48,6350.4,11.8,4
+2025-02-10,Desk Lamp,Home,West,21,898.7,4.9,2
+2025-02-10,T-Shirt,Clothing,North,109,2035.58,25.3,2.2
+2025-02-11,Jeans,Clothing,Central,147,6958.98,21.1,4
+2025-02-11,Wireless Mouse,Electronics,East,59,1713.95,17,3.5
+2025-02-12,Coffee Beans,Food,West,149,2070.5,22.8,4.9
+2025-02-12,Wireless Mouse,Electronics,South,125,3220,26.4,4.4
+2025-02-13,Headphones,Electronics,South,116,16878,3,1.5
+2025-02-13,Throw Pillow,Home,North,89,1871.67,29.9,3.3
+2025-02-14,Headphones,Electronics,Central,146,19819.5,9.5,2.1
+2025-02-14,Jeans,Clothing,East,60,3294,8.5,3.5
+2025-02-15,Headphones,Electronics,West,122,12370.8,32.4,2.7
+2025-02-15,Olive Oil,Food,South,39,417.92,10.7,3.1
+2025-02-16,Coffee Beans,Food,West,149,2298.47,14.3,1.7
+2025-02-16,Jeans,Clothing,South,150,5958,33.8,3.6
+2025-02-17,Laptop,Electronics,East,8,7910.4,17.6,3.7
+2025-02-17,Laptop,Electronics,South,67,49606.8,38.3,3.7
+2025-02-18,Laptop,Electronics,North,128,96307.2,37.3,3.1
+2025-02-18,Olive Oil,Food,North,61,443.59,39.4,4.7
+2025-02-19,Coffee Beans,Food,Central,10,125.46,30.3,2.7
+2025-02-19,Throw Pillow,Home,West,137,3735.99,9.1,4.7
+2025-02-20,Coffee Beans,Food,North,137,2189.81,11.2,2.3
+2025-02-20,Desk Lamp,Home,North,81,3163.86,13.2,2.5
+2025-02-21,Coffee Beans,Food,East,40,653.76,9.2,4.4
+2025-02-21,Wireless Mouse,Electronics,North,9,209.79,33.4,1.9
+2025-02-22,Coffee Beans,Food,Central,126,1657.91,26.9,3.6
+2025-02-22,Headphones,Electronics,West,70,9954,5.2,1.5
+2025-02-23,Laptop,Electronics,North,37,30414,31.5,2.7
+2025-02-23,Throw Pillow,Home,East,47,1164.66,17.4,4.5
+2025-02-24,Olive Oil,Food,South,54,557.28,14,4.5
+2025-02-24,T-Shirt,Clothing,Central,31,771.9,0.4,2.3
+2025-02-25,Jeans,Clothing,East,83,3276.84,34.2,4.5
+2025-02-25,T-Shirt,Clothing,West,47,1032.83,12.1,3.4
+2025-02-26,T-Shirt,Clothing,South,81,1729.35,14.6,1.6
+2025-02-26,Wireless Mouse,Electronics,South,12,374.22,10.9,2
+2025-02-27,Olive Oil,Food,Central,45,448.74,16.9,4.7
+2025-02-27,Throw Pillow,Home,Central,74,2133.42,3.9,2
+2025-02-28,Jeans,Clothing,West,122,5102.04,30.3,4.2
+2025-02-28,Smartphone,Electronics,Central,113,70150.4,22.4,4.7
+2025-03-01,Throw Pillow,Home,South,72,1946.16,9.9,3.9
+2025-03-01,Wireless Mouse,Electronics,Central,106,2930.9,21,2.5
+2025-03-02,T-Shirt,Clothing,East,116,2804.3,3.3,3.3
+2025-03-02,Throw Pillow,Home,North,130,3139.5,19.5,3.5
+2025-03-02,Wireless Mouse,Electronics,West,18,581.49,7.7,2.5
+2025-03-03,Coffee Beans,Food,West,139,2484.49,0.7,2.1
+2025-03-03,Olive Oil,Food,Central,68,612,25,3.1
+2025-03-03,T-Shirt,Clothing,Central,79,1955.25,1,4
+2025-03-04,Jeans,Clothing,East,111,6600.06,0.9,2.6
+2025-03-04,Wireless Mouse,Electronics,South,130,4013.1,11.8,3
+2025-03-04,Wireless Mouse,Electronics,South,38,1008.14,24.2,3.4
+2025-03-05,Laptop,Electronics,East,71,64496.4,24.3,4.3
+2025-03-05,Smartphone,Electronics,West,10,6528,18.4,4.1
+2025-03-05,T-Shirt,Clothing,West,83,1487.78,28.3,2.6
+2025-03-06,Headphones,Electronics,North,101,14665.2,3.2,2.9
+2025-03-06,Smartphone,Electronics,West,101,48803.2,39.6,1.6
+2025-03-06,Wireless Mouse,Electronics,North,29,675.99,33.4,4.9
+2025-03-07,Desk Lamp,Home,Central,86,2670.3,31,2.2
+2025-03-07,Laptop,Electronics,South,150,128340,28.7,3.4
+2025-03-07,Throw Pillow,Home,North,20,550.2,8.3,1.8
+2025-03-08,Jeans,Clothing,Central,22,1033.56,21.7,4.8
+2025-03-08,Jeans,Clothing,South,97,4871.34,16.3,1.7
+2025-03-08,Throw Pillow,Home,North,123,3217.68,12.8,3.1
+2025-03-09,Coffee Beans,Food,South,132,1943.57,18.2,4.4
+2025-03-09,Desk Lamp,Home,Central,136,3720.96,39.2,3.8
+2025-03-09,Jeans,Clothing,North,55,2814.9,14.7,3
+2025-03-10,Coffee Beans,Food,West,20,301.32,16.3,4.7
+2025-03-10,T-Shirt,Clothing,West,37,671.55,27.4,2.7
+2025-03-10,Throw Pillow,Home,South,21,568.26,9.8,2.3
+2025-03-11,Headphones,Electronics,South,38,4474.5,21.5,4.9
+2025-03-11,Smartphone,Electronics,East,108,71971.2,16.7,4.1
+2025-03-11,T-Shirt,Clothing,North,31,692.08,10.7,3.6
+2025-03-12,Laptop,Electronics,East,122,139226.4,4.9,4.8
+2025-03-12,Olive Oil,Food,East,42,487.87,3.2,4.6
+2025-03-12,Throw Pillow,Home,North,48,921.6,36,4.2
+2025-03-13,Coffee Beans,Food,West,116,1513.8,27.5,3.6
+2025-03-13,Laptop,Electronics,West,112,121094.4,9.9,2.1
+2025-03-13,Laptop,Electronics,West,34,35088,14,2
+2025-03-14,Jeans,Clothing,South,71,3177.96,25.4,2.2
+2025-03-14,T-Shirt,Clothing,West,75,1305,30.4,2.8
+2025-03-14,Wireless Mouse,Electronics,West,130,3640,20,3
+2025-03-15,Desk Lamp,Home,North,113,4337.51,14.7,1.8
+2025-03-15,Desk Lamp,Home,North,6,206.01,23.7,1.8
+2025-03-15,Laptop,Electronics,Central,134,113203.2,29.6,2.7
+2025-03-16,Headphones,Electronics,South,117,10582.65,39.7,4.2
+2025-03-16,Throw Pillow,Home,South,90,2438.1,9.7,2.6
+2025-03-16,Wireless Mouse,Electronics,South,71,1990.49,19.9,2.5
+2025-03-17,Desk Lamp,Home,East,133,5386.5,10,2.6
+2025-03-17,Olive Oil,Food,East,60,526.32,26.9,1.5
+2025-03-17,Smartphone,Electronics,North,15,10464,12.8,3.7
+2025-03-18,Desk Lamp,Home,East,96,3849.12,10.9,2.4
+2025-03-18,Headphones,Electronics,North,85,8466,33.6,3.7
+2025-03-18,Throw Pillow,Home,South,117,2292.03,34.7,1.9
+2025-03-19,Desk Lamp,Home,North,17,461.29,39.7,2.9
+2025-03-19,Headphones,Electronics,South,2,189.6,36.8,3.2
+2025-03-19,Headphones,Electronics,West,142,15357.3,27.9,2.3
+2025-03-20,Laptop,Electronics,Central,11,8487.6,35.7,2.8
+2025-03-20,T-Shirt,Clothing,Central,70,1121.75,35.9,3
+2025-03-20,Wireless Mouse,Electronics,East,42,1056.93,28.1,2.4
+2025-03-21,Headphones,Electronics,West,94,9630.3,31.7,2.7
+2025-03-21,Smartphone,Electronics,East,58,41064,11.5,2.1
+2025-03-21,Throw Pillow,Home,East,126,2857.68,24.4,1.5
+2025-03-22,Olive Oil,Food,Central,3,35.14,2.4,3.1
+2025-03-22,T-Shirt,Clothing,East,115,1949.25,32.2,2
+2025-03-22,T-Shirt,Clothing,East,135,2892.38,14.3,4.2
+2025-03-23,Desk Lamp,Home,Central,119,4878.41,8.9,3
+2025-03-23,Laptop,Electronics,West,28,29265.6,12.9,2.1
+2025-03-23,Smartphone,Electronics,South,27,20887.2,3.3,4.8
+2025-03-24,Desk Lamp,Home,Central,29,860,34.1,3.8
+2025-03-24,Jeans,Clothing,Central,72,2687.04,37.8,4
+2025-03-24,Throw Pillow,Home,East,101,2745.18,9.4,4.1
+2025-03-25,Desk Lamp,Home,East,118,4178.97,21.3,2.1
+2025-03-25,Olive Oil,Food,South,19,141.82,37.8,3.8
+2025-03-25,Wireless Mouse,Electronics,West,28,866.32,11.6,4.4
+2025-03-26,Desk Lamp,Home,East,127,4703.45,17.7,4.8
+2025-03-26,Laptop,Electronics,East,76,56726.4,37.8,2.3
+2025-03-26,Wireless Mouse,Electronics,North,69,2318.4,4,1.7
+2025-03-27,Coffee Beans,Food,East,10,165.06,8.3,2.3
+2025-03-27,Desk Lamp,Home,North,141,5913.54,6.8,4.6
+2025-03-27,Headphones,Electronics,South,68,9057.6,11.2,2
+2025-03-28,Headphones,Electronics,Central,11,1630.2,1.2,4.8
+2025-03-28,Smartphone,Electronics,South,13,8434.4,18.9,2.9
+2025-03-28,Wireless Mouse,Electronics,East,22,579.81,24.7,3.3
+2025-03-29,Desk Lamp,Home,East,28,759.78,39.7,4.7
+2025-03-29,Desk Lamp,Home,South,2,68.04,24.4,2.5
+2025-03-29,Smartphone,Electronics,West,6,4790.4,0.2,2.1
+2025-03-30,Desk Lamp,Home,Central,147,5298.62,19.9,4.8
+2025-03-30,Jeans,Clothing,South,44,1848,30,3.4
+2025-03-30,Laptop,Electronics,South,42,49392,2,2.7
+2025-03-30,Laptop,Electronics,West,93,96868.8,13.2,4.1
+2025-03-30,T-Shirt,Clothing,North,2,44.7,10.6,3.1
+2025-03-30,T-Shirt,Clothing,North,73,1604.18,12.1,2.2
+2025-03-31,Coffee Beans,Food,East,135,2084.94,14.2,3.2
+2025-03-31,Desk Lamp,Home,West,59,2655,0,1.7
+2025-03-31,T-Shirt,Clothing,East,110,2675.75,2.7,2.7
+2025-03-31,Throw Pillow,Home,West,134,2592.9,35.5,3
+2025-04-01,Coffee Beans,Food,North,140,2494.8,1,3.8
+2025-04-01,Desk Lamp,Home,West,50,2232,0.8,4.5
+2025-04-01,T-Shirt,Clothing,East,64,1590.4,0.6,4.1
+2025-04-01,Wireless Mouse,Electronics,North,100,2737,21.8,3
+2025-04-02,Laptop,Electronics,East,8,6076.8,36.7,4.6
+2025-04-02,Smartphone,Electronics,Central,106,53508.8,36.9,1.8
+2025-04-02,Smartphone,Electronics,Central,123,70749.6,28.1,4.8
+2025-04-02,Wireless Mouse,Electronics,West,51,1097.78,38.5,3.5
+2025-04-03,Jeans,Clothing,South,117,4857.84,30.8,4.8
+2025-04-03,Jeans,Clothing,West,27,1075.68,33.6,3
+2025-04-03,Olive Oil,Food,Central,136,1268.06,22.3,4.7
+2025-04-03,Wireless Mouse,Electronics,North,29,1015,0,4.5
+2025-04-04,Coffee Beans,Food,South,75,1009.8,25.2,1.9
+2025-04-04,Headphones,Electronics,North,81,10230.3,15.8,3.2
+2025-04-04,Olive Oil,Food,Central,138,1379.45,16.7,1.9
+2025-04-04,Throw Pillow,Home,Central,113,3074.73,9.3,2.5
+2025-04-05,Headphones,Electronics,South,86,12358.2,4.2,1.6
+2025-04-05,Headphones,Electronics,West,47,4801.05,31.9,2.8
+2025-04-05,Laptop,Electronics,Central,48,38131.2,33.8,1.9
+2025-04-05,Throw Pillow,Home,South,35,837.9,20.2,3.8
+2025-04-06,Olive Oil,Food,Central,40,364.8,24,4.8
+2025-04-06,Olive Oil,Food,South,127,1062.23,30.3,4.8
+2025-04-06,Smartphone,Electronics,North,88,46464,34,4.8
+2025-04-06,Throw Pillow,Home,Central,36,843.48,21.9,4
+2025-04-07,Headphones,Electronics,North,89,13283.25,0.5,4.7
+2025-04-07,Smartphone,Electronics,East,124,77177.6,22.2,2.4
+2025-04-07,T-Shirt,Clothing,North,6,126.45,15.7,3
+2025-04-07,T-Shirt,Clothing,South,7,107.45,38.6,3.6
+2025-04-08,Coffee Beans,Food,North,112,1223.71,39.3,4.5
+2025-04-08,Jeans,Clothing,South,75,4135.5,8.1,4.8
+2025-04-08,T-Shirt,Clothing,East,25,520.63,16.7,3
+2025-04-08,Throw Pillow,Home,East,138,2955.96,28.6,4.9
+2025-04-09,Jeans,Clothing,North,108,4944.24,23.7,3.3
+2025-04-09,Jeans,Clothing,West,49,1772.82,39.7,3.2
+2025-04-09,Smartphone,Electronics,South,12,8102.4,15.6,4.6
+2025-04-09,T-Shirt,Clothing,South,141,2171.4,38.4,2
+2025-04-10,Desk Lamp,Home,West,12,458.46,15.1,4
+2025-04-10,Headphones,Electronics,North,101,9423.3,37.8,2.8
+2025-04-10,Olive Oil,Food,West,19,160.28,29.7,4.7
+2025-04-10,Throw Pillow,Home,South,115,3125.7,9.4,4.8
+2025-04-11,Headphones,Electronics,Central,11,1207.8,26.8,4.3
+2025-04-11,Jeans,Clothing,South,25,945,37,1.7
+2025-04-11,T-Shirt,Clothing,South,37,851,8,3.8
+2025-04-11,Throw Pillow,Home,South,114,2845.44,16.8,4.5
+2025-04-12,Desk Lamp,Home,South,120,5027.4,6.9,4.1
+2025-04-12,Headphones,Electronics,East,84,8946,29,1.9
+2025-04-12,Laptop,Electronics,South,64,73574.4,4.2,1.8
+2025-04-12,Olive Oil,Food,Central,22,217.54,17.6,2.6
+2025-04-13,Coffee Beans,Food,Central,22,349.27,11.8,4.8
+2025-04-13,Coffee Beans,Food,East,115,1281.33,38.1,3.5
+2025-04-13,T-Shirt,Clothing,East,96,1900.8,20.8,3.5
+2025-04-13,Wireless Mouse,Electronics,East,2,43.4,38,3.9
+2025-04-14,Coffee Beans,Food,North,70,1160.46,7.9,2.5
+2025-04-14,Jeans,Clothing,East,131,4936.08,37.2,2.6
+2025-04-14,T-Shirt,Clothing,West,95,2078.13,12.5,2
+2025-04-14,Throw Pillow,Home,South,123,3612.51,2.1,2.9
+2025-04-15,Smartphone,Electronics,East,29,21784.8,6.1,4.4
+2025-04-15,T-Shirt,Clothing,Central,147,3641.93,0.9,4.4
+2025-04-15,T-Shirt,Clothing,South,140,2814,19.6,3.4
+2025-04-15,Wireless Mouse,Electronics,South,98,2966.95,13.5,1.8
+2025-04-16,Desk Lamp,Home,North,39,1486.49,15.3,4.8
+2025-04-16,Laptop,Electronics,Central,38,34154.4,25.1,4.3
+2025-04-16,Smartphone,Electronics,South,96,76032,1,3.1
+2025-04-16,T-Shirt,Clothing,South,145,2983.38,17.7,2.7
+2025-04-17,Headphones,Electronics,North,66,9900,0,2.6
+2025-04-17,Laptop,Electronics,West,17,14035.2,31.2,4.8
+2025-04-17,Smartphone,Electronics,East,85,49844,26.7,2.5
+2025-04-17,Smartphone,Electronics,North,44,25449.6,27.7,4.4
+2025-04-18,Headphones,Electronics,West,98,13641.6,7.2,4.5
+2025-04-18,Jeans,Clothing,West,30,1701,5.5,4.7
+2025-04-18,T-Shirt,Clothing,Central,1,20.13,19.5,4.8
+2025-04-18,T-Shirt,Clothing,South,93,1439.18,38.1,3.8
+2025-04-19,Coffee Beans,Food,East,23,307.19,25.8,3.1
+2025-04-19,Coffee Beans,Food,East,95,1574.91,7.9,2
+2025-04-19,Laptop,Electronics,North,82,94365.6,4.1,4.3
+2025-04-19,Wireless Mouse,Electronics,Central,149,3421.04,34.4,4.1
+2025-04-20,Coffee Beans,Food,East,144,2128.03,17.9,4.2
+2025-04-20,Jeans,Clothing,West,81,4432.32,8.8,2.5
+2025-04-20,Olive Oil,Food,East,105,941.22,25.3,4.5
+2025-04-20,Throw Pillow,Home,West,147,3223.71,26.9,1.8
+2025-04-21,Jeans,Clothing,West,111,6433.56,3.4,3.6
+2025-04-21,Olive Oil,Food,West,85,620.16,39.2,3.1
+2025-04-21,Smartphone,Electronics,Central,76,57334.4,5.7,2.1
+2025-04-21,Smartphone,Electronics,West,27,15530.4,28.1,3.7
+2025-04-22,Jeans,Clothing,Central,63,2324.7,38.5,4.7
+2025-04-22,Jeans,Clothing,North,29,1226.7,29.5,2.2
+2025-04-22,Laptop,Electronics,Central,104,78000,37.5,4.3
+2025-04-22,Throw Pillow,Home,West,83,2153.85,13.5,1.8
+2025-04-23,Coffee Beans,Food,East,15,220.86,18.2,1.9
+2025-04-23,Olive Oil,Food,North,71,735.28,13.7,2.7
+2025-04-23,Olive Oil,Food,West,65,627.12,19.6,3.4
+2025-04-23,Smartphone,Electronics,East,39,22526.4,27.8,4.4
+2025-04-24,Coffee Beans,Food,North,78,1241.14,11.6,3.8
+2025-04-24,Headphones,Electronics,North,90,8451,37.4,1.7
+2025-04-24,Throw Pillow,Home,Central,91,2405.13,11.9,2.3
+2025-04-24,Throw Pillow,Home,North,141,3350.16,20.8,1.9
+2025-04-25,Coffee Beans,Food,North,142,1827.54,28.5,2
+2025-04-25,Coffee Beans,Food,West,37,487.51,26.8,3.9
+2025-04-25,Olive Oil,Food,West,17,138.72,32,5
+2025-04-25,Wireless Mouse,Electronics,Central,60,1446.9,31.1,4.9
+2025-04-26,Headphones,Electronics,Central,27,3798.9,6.2,3.1
+2025-04-26,Laptop,Electronics,North,37,33966,23.5,4.2
+2025-04-26,Smartphone,Electronics,West,47,27147.2,27.8,4.7
+2025-04-26,Throw Pillow,Home,East,46,1251.66,9.3,3.1
+2025-04-27,Headphones,Electronics,Central,31,3082.95,33.7,2.8
+2025-04-27,Laptop,Electronics,East,123,142138.8,3.7,3.3
+2025-04-27,T-Shirt,Clothing,Central,74,1640.95,11.3,3
+2025-04-27,T-Shirt,Clothing,South,54,1031.4,23.6,3.8
+2025-04-28,Desk Lamp,Home,Central,34,1178.1,23,2.1
+2025-04-28,Jeans,Clothing,West,113,6590.16,2.8,2.3
+2025-04-28,Olive Oil,Food,North,5,58.98,1.7,4.1
+2025-04-28,Smartphone,Electronics,East,124,66364.8,33.1,1.8
+2025-04-29,Olive Oil,Food,West,76,822.62,9.8,2.2
+2025-04-29,T-Shirt,Clothing,South,106,2475.1,6.6,4.4
+2025-04-29,Throw Pillow,Home,South,84,2376.36,5.7,1.9
+2025-04-29,Wireless Mouse,Electronics,North,90,2721.6,13.6,2.6
+2025-04-30,Coffee Beans,Food,East,46,512.53,38.1,2.1
+2025-04-30,Headphones,Electronics,West,46,4857.6,29.6,2.1
+2025-04-30,Jeans,Clothing,West,27,1108.08,31.6,4.7
+2025-04-30,Laptop,Electronics,Central,38,37802.4,17.1,3.1
+2025-04-30,Laptop,Electronics,East,106,103668,18.5,3
+2025-05-01,Jeans,Clothing,East,87,4233.42,18.9,3.2
+2025-05-01,Smartphone,Electronics,Central,86,46164.8,32.9,2.4
+2025-05-01,Smartphone,Electronics,West,133,75224.8,29.3,3.9
+2025-05-01,T-Shirt,Clothing,South,17,383.35,9.8,4.1
+2025-05-01,Wireless Mouse,Electronics,North,144,3981.6,21,3.2
+2025-05-02,Coffee Beans,Food,Central,27,429.62,11.6,2.9
+2025-05-02,Desk Lamp,Home,East,89,3123.9,22,3
+2025-05-02,Olive Oil,Food,West,17,170.75,16.3,3.4
+2025-05-02,Throw Pillow,Home,North,48,1010.88,29.8,1.7
+2025-05-02,Throw Pillow,Home,South,132,3326.4,16,1.9
+2025-05-03,Olive Oil,Food,East,148,1651.68,7,2.8
+2025-05-03,Smartphone,Electronics,North,1,776,3,2.6
+2025-05-03,T-Shirt,Clothing,East,42,1002.75,4.5,4.1
+2025-05-03,Throw Pillow,Home,West,130,2694.9,30.9,4.2
+2025-05-03,Wireless Mouse,Electronics,South,74,2341.36,9.6,4.6
+2025-05-04,Desk Lamp,Home,North,137,6091.02,1.2,2.9
+2025-05-04,Headphones,Electronics,Central,149,19131.6,14.4,3.7
+2025-05-04,Headphones,Electronics,East,36,4973.4,7.9,1.6
+2025-05-04,T-Shirt,Clothing,East,2,42.8,14.4,3.1
+2025-05-04,Wireless Mouse,Electronics,North,99,2810.12,18.9,4
+2025-05-05,Olive Oil,Food,Central,56,602.78,10.3,1.7
+2025-05-05,T-Shirt,Clothing,East,20,320,36,3.6
+2025-05-05,T-Shirt,Clothing,South,123,2902.8,5.6,2
+2025-05-05,Throw Pillow,Home,North,132,3714.48,6.2,3.4
+2025-05-05,Wireless Mouse,Electronics,North,53,1782.66,3.9,2
+2025-05-06,Desk Lamp,Home,North,77,2335.41,32.6,1.9
+2025-05-06,Headphones,Electronics,East,120,16686,7.3,4.6
+2025-05-06,Jeans,Clothing,West,63,3318.84,12.2,3.6
+2025-05-06,Olive Oil,Food,Central,24,229.82,20.2,2.2
+2025-05-06,Smartphone,Electronics,East,55,40084,8.9,3.3
+2025-05-07,Desk Lamp,Home,East,45,1701,16,3.7
+2025-05-07,Headphones,Electronics,Central,141,17448.75,17.5,4.6
+2025-05-07,Jeans,Clothing,Central,106,5641.32,11.3,2.7
+2025-05-07,Olive Oil,Food,North,93,747.72,33,2.8
+2025-05-07,Olive Oil,Food,West,81,951.59,2.1,2.9
+2025-05-08,Headphones,Electronics,North,102,9455.4,38.2,1.6
+2025-05-08,Olive Oil,Food,North,67,510.54,36.5,3.5
+2025-05-08,Smartphone,Electronics,West,97,62856,19,3.5
+2025-05-08,T-Shirt,Clothing,East,11,268.4,2.4,2.8
+2025-05-08,Throw Pillow,Home,East,23,481.62,30.2,3.5
+2025-05-09,Headphones,Electronics,Central,42,6016.5,4.5,2.8
+2025-05-09,T-Shirt,Clothing,East,20,343,31.4,3.5
+2025-05-09,T-Shirt,Clothing,West,15,252.38,32.7,4.9
+2025-05-09,Throw Pillow,Home,North,89,1871.67,29.9,2.2
+2025-05-09,Wireless Mouse,Electronics,Central,145,4633.48,8.7,3.2
+2025-05-10,Coffee Beans,Food,Central,104,1514.45,19.1,4.2
+2025-05-10,T-Shirt,Clothing,North,14,248.5,29,2.3
+2025-05-10,Throw Pillow,Home,South,97,1769.28,39.2,3.8
+2025-05-10,Wireless Mouse,Electronics,East,145,4719.75,7,1.6
+2025-05-10,Wireless Mouse,Electronics,West,25,753.38,13.9,2.4
+2025-05-11,Coffee Beans,Food,South,31,359.91,35.5,1.5
+2025-05-11,Laptop,Electronics,East,78,93132,0.5,2.9
+2025-05-11,Olive Oil,Food,Central,143,1468.9,14.4,1.9
+2025-05-11,Throw Pillow,Home,South,131,3639.18,7.4,3.1
+2025-05-11,Throw Pillow,Home,South,33,694.98,29.8,3.5
+2025-05-12,Headphones,Electronics,West,25,3120,16.8,1.6
+2025-05-12,Jeans,Clothing,South,60,2296.8,36.2,4
+2025-05-12,Wireless Mouse,Electronics,Central,71,2425.36,2.4,2.8
+2025-05-12,Wireless Mouse,Electronics,East,27,810.81,14.2,4.7
+2025-05-12,Wireless Mouse,Electronics,West,137,4545.66,5.2,2.9
+2025-05-13,Headphones,Electronics,East,127,12401.55,34.9,1.8
+2025-05-13,Headphones,Electronics,South,103,10490.55,32.1,2.9
+2025-05-13,Smartphone,Electronics,South,96,59827.2,22.1,1.7
+2025-05-13,T-Shirt,Clothing,Central,130,3123.25,3.9,4.7
+2025-05-13,T-Shirt,Clothing,North,142,3205.65,9.7,2.6
+2025-05-14,Coffee Beans,Food,North,1,14.58,19,3.7
+2025-05-14,Desk Lamp,Home,South,125,3673.13,34.7,1.7
+2025-05-14,Headphones,Electronics,South,36,4282.2,20.7,3.9
+2025-05-14,Laptop,Electronics,East,121,137794.8,5.1,1.8
+2025-05-14,Wireless Mouse,Electronics,North,149,4787.37,8.2,1.8
+2025-05-15,Coffee Beans,Food,West,136,1931.47,21.1,3.8
+2025-05-15,Headphones,Electronics,East,47,6394.35,9.3,1.5
+2025-05-15,Headphones,Electronics,North,78,9196.2,21.4,4.5
+2025-05-15,Olive Oil,Food,North,107,843.59,34.3,3.6
+2025-05-15,Wireless Mouse,Electronics,South,16,507.36,9.4,4.8
+2025-05-16,Desk Lamp,Home,West,100,3271.5,27.3,3.8
+2025-05-16,Headphones,Electronics,Central,102,12377.7,19.1,4.3
+2025-05-16,Jeans,Clothing,North,92,4515.36,18.2,4.5
+2025-05-16,Laptop,Electronics,West,37,26950.8,39.3,1.8
+2025-05-16,Olive Oil,Food,East,34,345.98,15.2,3.1
+2025-05-17,Desk Lamp,Home,Central,29,1295.87,0.7,4.1
+2025-05-17,Jeans,Clothing,East,43,2193,15,4.4
+2025-05-17,Smartphone,Electronics,South,125,66500,33.5,4.9
+2025-05-17,T-Shirt,Clothing,North,70,1641.5,6.2,2.7
+2025-05-17,T-Shirt,Clothing,South,73,1815.88,0.5,4.5
+2025-05-18,Desk Lamp,Home,North,81,2737.4,24.9,3.4
+2025-05-18,Headphones,Electronics,Central,67,8472.15,15.7,4.5
+2025-05-18,Smartphone,Electronics,North,86,67630.4,1.7,1.7
+2025-05-18,Smartphone,Electronics,West,119,68639.2,27.9,1.6
+2025-05-18,Wireless Mouse,Electronics,East,112,2602.88,33.6,2.4
+2025-05-19,Desk Lamp,Home,South,122,4699.44,14.4,4.4
+2025-05-19,Smartphone,Electronics,East,1,578.4,27.7,4.8
+2025-05-19,Smartphone,Electronics,North,19,13756,9.5,3.8
+2025-05-19,T-Shirt,Clothing,South,150,2430,35.2,2.9
+2025-05-19,T-Shirt,Clothing,West,1,18.28,26.9,4.3
+2025-05-20,Headphones,Electronics,East,113,14339.7,15.4,2.3
+2025-05-20,Headphones,Electronics,East,27,2794.5,31,3.3
+2025-05-20,Jeans,Clothing,Central,150,7587,15.7,3.9
+2025-05-20,Throw Pillow,Home,East,15,357.3,20.6,2.8
+2025-05-20,Throw Pillow,Home,South,8,174.72,27.2,2.8
+2025-05-21,Coffee Beans,Food,Central,10,136.26,24.3,3.3
+2025-05-21,Jeans,Clothing,South,2,80.76,32.7,2.8
+2025-05-21,Smartphone,Electronics,East,11,8764.8,0.4,2.3
+2025-05-21,Smartphone,Electronics,North,116,78694.4,15.2,1.6
+2025-05-21,T-Shirt,Clothing,North,12,223.2,25.6,3.9
+2025-05-22,Olive Oil,Food,South,28,288.62,14.1,3.8
+2025-05-22,Smartphone,Electronics,North,86,60062.4,12.7,2.3
+2025-05-22,T-Shirt,Clothing,Central,12,227.4,24.2,2.5
+2025-05-22,Throw Pillow,Home,East,138,2972.52,28.2,3.2
+2025-05-22,Throw Pillow,Home,West,55,1511.4,8.4,2.5
+2025-05-23,Desk Lamp,Home,North,72,3009.96,7.1,2.2
+2025-05-23,Jeans,Clothing,Central,115,5133.6,25.6,3.9
+2025-05-23,Olive Oil,Food,Central,98,1052.52,10.5,3.1
+2025-05-23,Throw Pillow,Home,North,19,461.13,19.1,1.7
+2025-05-23,Wireless Mouse,Electronics,North,35,907.73,25.9,3.5
+2025-05-24,Coffee Beans,Food,Central,86,1174.93,24.1,2
+2025-05-24,Jeans,Clothing,South,58,2293.32,34.1,3.1
+2025-05-24,Smartphone,Electronics,South,138,72312,34.5,3.5
+2025-05-24,T-Shirt,Clothing,West,120,2868,4.4,1.5
+2025-05-24,T-Shirt,Clothing,West,5,95.75,23.4,1.5
+2025-05-25,Headphones,Electronics,East,93,12276,12,2.5
+2025-05-25,Smartphone,Electronics,East,149,103108,13.5,3.1
+2025-05-25,Throw Pillow,Home,East,59,1497.42,15.4,2.6
+2025-05-25,Throw Pillow,Home,North,59,1141.65,35.5,2.7
+2025-05-25,Wireless Mouse,Electronics,South,83,1908.59,34.3,4.5
+2025-05-26,Desk Lamp,Home,East,115,4647.15,10.2,4.9
+2025-05-26,Desk Lamp,Home,East,30,850.5,37,3.3
+2025-05-26,Desk Lamp,Home,West,40,1261.8,29.9,4.1
+2025-05-26,Headphones,Electronics,West,1,131.25,12.5,4.6
+2025-05-26,Wireless Mouse,Electronics,Central,137,4512.09,5.9,4.7
+2025-05-27,Headphones,Electronics,North,74,7092.9,36.1,3.7
+2025-05-27,Headphones,Electronics,South,47,4970.25,29.5,4.7
+2025-05-27,Laptop,Electronics,Central,119,125521.2,12.1,1.6
+2025-05-27,Olive Oil,Food,West,105,908.46,27.9,1.7
+2025-05-27,T-Shirt,Clothing,East,66,1287,22,4.2
+2025-05-28,Laptop,Electronics,South,114,91519.2,33.1,4
+2025-05-28,Smartphone,Electronics,North,148,75420.8,36.3,3.5
+2025-05-28,Throw Pillow,Home,South,122,2642.52,27.8,4.6
+2025-05-28,Throw Pillow,Home,West,126,3247.02,14.1,3.9
+2025-05-28,Wireless Mouse,Electronics,Central,48,1212.96,27.8,2.5
+2025-05-29,Desk Lamp,Home,East,91,2891.07,29.4,1.7
+2025-05-29,Laptop,Electronics,South,28,24864,26,2.1
+2025-05-29,Laptop,Electronics,West,59,63720,10,3.2
+2025-05-29,Olive Oil,Food,North,103,972.73,21.3,2.2
+2025-05-29,T-Shirt,Clothing,East,34,721.65,15.1,2.5
+2025-05-30,Desk Lamp,Home,Central,17,645.66,15.6,1.8
+2025-05-30,Jeans,Clothing,North,107,5848.62,8.9,3.6
+2025-05-30,Olive Oil,Food,Central,126,919.3,39.2,4.9
+2025-05-30,T-Shirt,Clothing,East,138,2949.75,14.5,4.6
+2025-05-30,Wireless Mouse,Electronics,East,138,3395.49,29.7,2.9
+2025-05-30,Wireless Mouse,Electronics,South,27,909.09,3.8,4.5
+2025-05-31,Headphones,Electronics,Central,96,10800,25,4.3
+2025-05-31,Jeans,Clothing,East,101,5672.16,6.4,4.7
+2025-05-31,Smartphone,Electronics,North,54,31276.8,27.6,3.6
+2025-05-31,Smartphone,Electronics,South,65,45292,12.9,4.8
+2025-05-31,Smartphone,Electronics,West,16,12492.8,2.4,3.9
+2025-05-31,Wireless Mouse,Electronics,Central,8,244.44,12.7,3.8
+2025-06-01,Coffee Beans,Food,South,111,1320.68,33.9,1.5
+2025-06-01,Headphones,Electronics,North,146,20586,6,2.1
+2025-06-01,Jeans,Clothing,North,90,3807,29.5,3.2
+2025-06-01,Olive Oil,Food,South,69,824.69,0.4,4.7
+2025-06-01,Throw Pillow,Home,North,38,705.66,38.1,4.7
+2025-06-01,Wireless Mouse,Electronics,North,1,33.49,4.3,2.7
+2025-06-02,Coffee Beans,Food,Central,65,1053,10,4.8
+2025-06-02,Coffee Beans,Food,North,143,1593.31,38.1,2.9
+2025-06-02,Desk Lamp,Home,Central,141,5298.08,16.5,1.7
+2025-06-02,Laptop,Electronics,Central,150,122760,31.8,1.6
+2025-06-02,Olive Oil,Food,East,51,490.21,19.9,2.5
+2025-06-02,Wireless Mouse,Electronics,North,93,1966.02,39.6,4.5
+2025-06-03,Coffee Beans,Food,South,102,1270.51,30.8,2.1
+2025-06-03,Desk Lamp,Home,East,123,5457.51,1.4,4.3
+2025-06-03,Jeans,Clothing,East,72,4147.2,4,1.8
+2025-06-03,Olive Oil,Food,North,99,791.21,33.4,4.4
+2025-06-03,T-Shirt,Clothing,North,115,2104.5,26.8,3.1
+2025-06-03,Throw Pillow,Home,South,5,128.25,14.5,4.7
+2025-06-04,Coffee Beans,Food,Central,71,833.26,34.8,1.9
+2025-06-04,Headphones,Electronics,West,142,20298.9,4.7,2.1
+2025-06-04,Headphones,Electronics,West,26,2843.1,27.1,4.4
+2025-06-04,T-Shirt,Clothing,North,128,2025.6,36.7,1.7
+2025-06-04,T-Shirt,Clothing,West,38,578.55,39.1,3.2
+2025-06-04,Throw Pillow,Home,North,109,2890.68,11.6,4
+2025-06-05,Headphones,Electronics,South,111,15101.55,9.3,3.5
+2025-06-05,Laptop,Electronics,North,150,149400,17,2.5
+2025-06-05,Laptop,Electronics,South,111,130935.6,1.7,3.4
+2025-06-05,Laptop,Electronics,West,42,40219.2,20.2,3.5
+2025-06-05,Smartphone,Electronics,East,15,10692,10.9,3.5
+2025-06-05,Wireless Mouse,Electronics,West,9,283.5,10,4.8
+2025-06-06,Coffee Beans,Food,East,64,963.07,16.4,2.8
+2025-06-06,Headphones,Electronics,West,110,11797.5,28.5,3.6
+2025-06-06,Olive Oil,Food,East,44,507.94,3.8,2.7
+2025-06-06,Smartphone,Electronics,East,150,101040,15.8,3.6
+2025-06-06,Smartphone,Electronics,South,60,34416,28.3,3.9
+2025-06-06,Throw Pillow,Home,West,50,1147.5,23.5,2.7
+2025-06-07,Smartphone,Electronics,East,115,69644,24.3,2
+2025-06-07,Wireless Mouse,Electronics,West,116,3105.9,23.5,3.5

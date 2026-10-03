@@ -1,0 +1,62 @@
+This is an info message
+This is a warning message
+This is an error message
+This is a critical message
+This is an info message
+This is an info message
+This is a warning message
+This is a warning message
+This is an error message
+This is an error message
+This is a critical message
+This is a critical message
+This is an info message
+This is an info message
+19-2026-08-08 17:21:32,663-my_logger-INFO-This is an info message
+This is a warning message
+This is a warning message
+20-2026-08-08 17:21:32,667-my_logger-WARNING-This is a warning message
+This is an error message
+This is an error message
+21-2026-08-08 17:21:32,672-my_logger-ERROR-This is an error message
+This is a critical message
+This is a critical message
+22-2026-08-08 17:21:32,679-my_logger-CRITICAL-This is a critical message
+2026-08-08 17:21:57,207 - my_logger - DEBUG - This is a debug message
+This is an info message
+This is an info message
+19-2026-08-08 17:21:57,209-my_logger-INFO-This is an info message
+2026-08-08 17:21:57,209 - my_logger - INFO - This is an info message
+This is a warning message
+This is a warning message
+20-2026-08-08 17:21:57,214-my_logger-WARNING-This is a warning message
+2026-08-08 17:21:57,214 - my_logger - WARNING - This is a warning message
+This is an error message
+This is an error message
+21-2026-08-08 17:21:57,221-my_logger-ERROR-This is an error message
+2026-08-08 17:21:57,221 - my_logger - ERROR - This is an error message
+This is a critical message
+This is a critical message
+22-2026-08-08 17:21:57,226-my_logger-CRITICAL-This is a critical message
+2026-08-08 17:21:57,226 - my_logger - CRITICAL - This is a critical message
+2026-08-08 17:33:37,712 - my_logger - DEBUG - This is a debug message
+This is an info message
+This is an info message
+14-2026-08-08 17:33:37,716-my_logger-INFO-This is an info message
+2026-08-08 17:33:37,716 - my_logger - INFO - This is an info message
+This is a warning message
+This is a warning message
+15-2026-08-08 17:33:37,729-my_logger-WARNING-This is a warning message
+2026-08-08 17:33:37,729 - my_logger - WARNING - This is a warning message
+This is an error message
+This is an error message
+16-2026-08-08 17:33:37,741-my_logger-ERROR-This is an error message
+2026-08-08 17:33:37,741 - my_logger - ERROR - This is an error message
+This is a critical message
+This is a critical message
+17-2026-08-08 17:33:37,749-my_logger-CRITICAL-This is a critical message
+2026-08-08 17:33:37,749 - my_logger - CRITICAL - This is a critical message
+20-2026-08-08 17:38:24,470-my_logger-INFO-This is an info message
+21-2026-08-08 17:38:24,473-my_logger-WARNING-This is a warning message
+22-2026-08-08 17:38:24,475-my_logger-ERROR-This is an error message
+23-2026-08-08 17:38:24,478-my_logger-CRITICAL-This is a critical message
